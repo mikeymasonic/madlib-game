@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    text-align: left;
+    background: purple;
+    font-family: monospace;
+    color: darkcyan;
+    font-size: 15px;
+}
+
+#choose {
+    color: darkcyan;
+    width: 200;
+    height: 200;
+    border-radius: 15px;
+    border: dotted darkgoldenrod 5px;
+}
+
+#storyResults {
+    align-content: center;
+    height: 151px;
+    border-radius: 15px;
+    border: dotted lightseagreen 5px;
+    background: cyan;
+    color: purple;
+    padding: 6px;
+    text-align: right;
+    font-size: 12px;
+    transition: all .2s ease-in-out;
+    position: absolute;
+    top: 396px;
+    left: 250px;
+
+}
+
+#button {
+    margin-left: 70px;
+}
